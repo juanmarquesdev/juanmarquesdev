@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Juan Marques! 
 
 Sou apaixonado por programação!<br>
-Gosto de buscar desafios em tudo o que eu faço para evoluir minhas habilidades e ser capaz de trazer mais impacto naquilo que eu produzo.<br>
+Gosto de buscar desafios em tudo o que faço para evoluir minhas habilidades e conseguir trazer mais impacto naquilo que eu produzo.<br>
 No momento estou estagiando como desenvolvedor, tenho aprendido bastante sobre o desenvolvimento completo de aplicações, sobre integração com outras tecnologias e, principalmente, como um problema pode desencadear uma cadeia de inovação!<br>
 Tudo isso dentro de muita organização e controle!
 
