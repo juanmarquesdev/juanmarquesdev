@@ -1,4 +1,4 @@
-## Olá! Eu sou o Juan Marques! 
+## Olá! Eu sou o Juan Marques! 👋
 
 #### PT-BR
 
