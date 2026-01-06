@@ -1,24 +1,23 @@
-## Olá! Eu sou o Juan Marques! 👋
+# Hi, I'm Juan 👋
 
-#### PT-BR
+I'm a software developer focused on building, evolving, and maintaining products from idea to production, combining hands-on development with software management.
 
-Sou apaixonado por programação!<br>
-Gosto de buscar desafios em tudo o que faço para evoluir minhas habilidades e conseguir trazer mais impacto naquilo que eu produzo.<br>
-No momento estou trabalhando como desenvolvedor, tenho aprendido bastante sobre o desenvolvimento completo de aplicações, sobre integração com outras tecnologias e, principalmente, como um problema pode desencadear uma cadeia de inovação!<br>
-Tudo isso dentro de muita organização e controle!
+## 🛠 Tech & Tools
+- **Backend:** Node.js, NestJS, TypeORM, REST APIs
+- **Mobile:** Flutter (Android-focused setup)
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **Architecture:** DTO-driven design, modular architecture, clean code
+- **DevOps & Environment:** Linux, WSL, Docker, Git, Bash/Zsh
+- **Tooling:** Android SDK, Gradle, CI-ready project setups
 
-#### _EN_
+## 🧠 What I Actually Do
+- Take ownership of the full product development lifecycle
+- Design and implement backend architectures and APIs
+- Lead the development and delivery of new features
+- Improve developer experience through documentation and tooling
+- Balance technical decisions with product and business constraints
 
-_I'm passionate about programming!<br>
-I like to seek challenges in everything I do to improve my skills and bring more impact to what I produce.<br>
-I'm currently working as a developer, and I've learned a lot about application development, integration with other technologies, and, most importantly, how a problem can start an innovation chain!<br>
-All this with a lot of organization and control!_
-
-
-### Siga-me nas redes sociais!
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodrigues-batista-marques/)
-
-![Juan Marques's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juanmarquesdev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juanmarquesdev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+## 🚀 Current Focus
+- Scaling and maintaining NestJS-based systems
+- Improving development environments on Linux/WSL
+- Building reliable, well-structured, and maintainable software
